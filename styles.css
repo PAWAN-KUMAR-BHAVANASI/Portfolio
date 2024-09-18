@@ -368,6 +368,7 @@ footer p {
 
     #header{
         background-image: url('./mob.png');
+        height: 100vh;
     }
 
     .header-text h1{
